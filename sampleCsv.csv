@@ -3,4 +3,4 @@ Water,Resource,WaterSrc,5000,gallons,123,50,NC101,2024-08-22T06:54:21Z,Mix Tank 
 White Sugar,Flavor Additives,WS101,100,lbs,123,3,NC101,2024-08-22T06:54:21Z,Mix Tank 1
 Caffeine,Nutrients,C101,80,lbs,123,1.2,NC101,2024-08-22T06:54:21Z,Mix Tank 1
 Citrus 14,Flavor Additives,CTR201,50,lbs,123,1,NC101,2024-08-22T06:54:21Z,Mix Tank 1
-NotCelsius,Energy Drink,NC101,51,gallons,,,,,
+NotCelsius,Energy Drink,NC101,51,gallons,,,,2024-08-22T06:54:21Z,
